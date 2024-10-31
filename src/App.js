@@ -19,7 +19,7 @@ export default function App() {
       <Card
         artista="TOTO"
         musica="Rosanna"
-        foto="https://ucarecdn.com/f56ca6cd-00b3-4453-aa14-ba1cd93bd1ae/-/crop/1592x1080/164,0/-/resize/840x570/"
+        foto="https://static01.nyt.com/images/2024/07/27/arts/00PORCARO-TOTO/00PORCARO-TOTO-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
         dia="Sexta-feira"
       />
     </>
