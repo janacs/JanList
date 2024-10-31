@@ -11,15 +11,15 @@ export default function App() {
         dia="Segunda-feira"
       />
       <Card
-        artista="Alice Cooper"
-        musica="Poison"
-        foto="https://whiplash.net/imagens_promo_22/alicecooper_earmusic_por_jenny_risher.jpg?nocache"
-        dia="Quarta-feira"
-      />
-      <Card
         artista="TOTO"
         musica="Rosanna"
         foto="https://static01.nyt.com/images/2024/07/27/arts/00PORCARO-TOTO/00PORCARO-TOTO-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+        dia="Quarta-feira"
+      />
+      <Card
+        artista="Alice Cooper"
+        musica="Poison"
+        foto="https://whiplash.net/imagens_promo_22/alicecooper_earmusic_por_jenny_risher.jpg?nocache"
         dia="Sexta-feira"
       />
     </>
